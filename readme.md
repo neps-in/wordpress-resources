@@ -1,4 +1,8 @@
-Layout GUide
+# About
+
+This is something cool collection of wonderful resources for someone who wants to work on wordpress. Feel free to add if I have missed out as pull request.
+
+Layout Guide
 https://dotorgstyleguide.wordpress.com/outline/layout/columns/
 
 Woocom visual hook guide single product page
