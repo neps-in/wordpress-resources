@@ -86,31 +86,6 @@ wp_nonce_field
 https://codex.wordpress.org/Function_Reference/wp_nonce_field
 __() https://developer.wordpress.org/reference/functions/__/
 
-# All about memory
-
-For those who would like to read in web format, the link is here.
-
-https://lwn.net/Articles/250967/
-
-It is divided in 9 part series and you can find links to rest of articles at the end of this one.
-
-Below are some other useful links.
-
-https://en.wikipedia.org/wiki/Memory_hierarchy
-
-http://www.brendangregg.com/perf.html
-
-http://www.brendangregg.com/ebpf.html
-
-http://paul.bone.id.au/2019/05/01/cpu-cache/
-
-http://blog.stuffedcow.net/2015/08/pagewalk-coherence/
-
-http://gchandbook.org/
-
-http://pages.cs.wisc.edu/~remzi/OSTEP/
-
-
 Wordpress official tuts
 ========================
 
